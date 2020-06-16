@@ -14,7 +14,7 @@ public class Check {
 
             System.out.println("Your Internet is working");
         } catch (Exception e) {
-            System.out.println("Checking Connection");
+            System.out.println("Please check your Connection");
         }
     }
 }
